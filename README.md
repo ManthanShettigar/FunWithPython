@@ -8,7 +8,7 @@
 ### Project List 
 - [**black_jackgame**](/black_jackgame)
 - [**coffeemachine**](/coffeemachine)
-- [**guess\ the\ number**](/guess the number)
+- [**guess the number**](/guess the number)
 - [**higherlowergame**](/higherlowergame)
 - [**random password generator**](/random_password_generator)
 
