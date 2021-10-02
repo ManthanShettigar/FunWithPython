@@ -10,7 +10,7 @@
 - [**coffeemachine**](/coffeemachine)
 - [**guess the number**](/guess the number)
 - [**higherlowergame**](/higherlowergame)
-
+- [**random password generator**](/random_password_generator)
 
 ### Prerequisite
 - [Python3+](https://www.python.org/)
