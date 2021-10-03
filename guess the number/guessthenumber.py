@@ -17,7 +17,7 @@ user_attempt = level()
 
 def guess():
     """accept guess from the user"""
-    print(f"You have {user_attempt} attempts emaining to guess the number")
+    print(f"You have {user_attempt} attempts remaining to guess the number")
     user_guess=int(input('Make a guess ! : '))
     if user_guess==CORRECTANSWER:
         print('You have guessed it right !')
