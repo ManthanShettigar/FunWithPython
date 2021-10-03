@@ -6,9 +6,9 @@
 
 
 ### Project List 
-- [**black_jackgame**](/black_jackgame)
-- [**coffeemachine**](/coffeemachine)
-- [**guess the number**](/guess the number)
+- [**blackjack game**](/black_jackgame)
+- [**coffee machine**](/coffeemachine)
+- [**guess the number**](/guess_the_number)
 - [**higherlowergame**](/higherlowergame)
 - [**random password generator**](/random_password_generator)
 
