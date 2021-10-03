@@ -1,4 +1,5 @@
-CORRECTANSWER = 23
+import random
+CORRECTANSWER = random.randint(1,100)
 print('Welcome to the number Guessing game')
 print("I'm thinking of a number 1-100")
 
