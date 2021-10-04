@@ -13,6 +13,7 @@
 - [**random password generator**](/random_password_generator)
 - [**Rock Paper Scissor**](/rock_paper_scissor)
 - [**Anime quote generator**](/anime_quote_generator)
+- [**gesture volume control**](/gesture_volume_control)
 
 ### Prerequisite
 - [Python3+](https://www.python.org/)
