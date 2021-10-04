@@ -14,7 +14,7 @@
 - [**Rock Paper Scissor**](/rock_paper_scissor)
 - [**Anime quote generator**](/anime_quote_generator)
 - [**gesture volume control**](/gesture_volume_control)
-- [**heart disease prediction**](/Heart_disease_prediction)
+- [**heart disease prediction**](/Heart_Disease_Prediction)
 
 ### Prerequisite
 - [Python3+](https://www.python.org/)
