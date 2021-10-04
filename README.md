@@ -12,6 +12,7 @@
 - [**higherlowergame**](/higherlowergame)
 - [**random password generator**](/random_password_generator)
 - [**Rock Paper Scissor**](/rock_paper_scissor)
+- [**Anime quote generator**](/anime_quote_generator)
 
 ### Prerequisite
 - [Python3+](https://www.python.org/)
