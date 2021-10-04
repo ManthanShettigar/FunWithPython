@@ -15,7 +15,7 @@
 - [**Anime quote generator**](/anime_quote_generator)
 - [**gesture volume control**](/gesture_volume_control)
 - [**heart disease prediction**](/Heart_Disease_Prediction)
-- [**Flappy Bird*](/Flappy-Bird )
+- [**Flappy Bird**](/Flappy-Bird )
 
 ### Prerequisite
 - [Python3+](https://www.python.org/)
