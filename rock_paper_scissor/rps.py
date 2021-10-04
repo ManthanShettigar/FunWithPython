@@ -1,5 +1,31 @@
+Rock = '''
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+'''
+
+Paper = '''
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+'''
+
+Scissors = '''
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+'''
 import random
-  
+game = [Rock, Paper, Scissors]
 # Print multiline instruction
 # performstring concatenation of string
 print("Rules of the Rock paper scissor game as follows: \n"
@@ -31,6 +57,7 @@ while True:
         choice_name = 'scissor'
           
     # print user choice 
+    print(game[choice-1])
     print("user choice is: " + choice_name)
     print("\nNow its computer turn.......")
   
@@ -54,6 +81,8 @@ while True:
         comp_choice_name = 'scissor'
           
     print("Computer choice is: " + comp_choice_name)
+    print(game[comp_choice-1])
+
   
     print("\n" + choice_name + " V/s " + comp_choice_name + "\n")
   
