@@ -49,4 +49,4 @@ while(user_attempt!=0):
     user_attempt=user_attempt-1
     if user_attempt==0:
         print('You did not guess the number, The number was ' + str(CORRECTANSWER))
-        print('Sorry ! next time')
+        print('Sorry ! next time.')
