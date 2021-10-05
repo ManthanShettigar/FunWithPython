@@ -1,5 +1,5 @@
-Sudoku solver
-krishan821
+# Sudoku solver
+# krishan821
 
 board = [[9,0,8,0,0,0,2,0,3],
     [0,4,0,0,9,0,0,6,0],
