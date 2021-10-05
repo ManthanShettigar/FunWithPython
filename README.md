@@ -9,20 +9,7 @@
 
 ![](https://img.shields.io/github/stars/ManthanShettigar/FunWithPython) ![](https://img.shields.io/github/watchers/ManthanShettigar/FunWithPython) ![](https://img.shields.io/github/forks/ManthanShettigar/FunWithPython)
 
-> This is a collection of scripts, games, bots, scraper and tools written in python
-
-
-### Project List 
-- [**blackjack game**](/black_jackgame)
-- [**coffee machine**](/coffeemachine)
-- [**guess the number**](/guess_the_number)
-- [**higherlowergame**](/higherlowergame)
-- [**random password generator**](/random_password_generator)
-- [**Rock Paper Scissor**](/rock_paper_scissor)
-- [**Anime quote generator**](/anime_quote_generator)
-- [**gesture volume control**](/gesture_volume_control)
-- [**heart disease prediction**](/Heart_Disease_Prediction)
-- [**Flappy Bird**](/Flappy-Bird )
+> This Repository  is a collection of scripts, games, bots, scraper and tools written in python
 
 ### Prerequisite
 - [Python3+](https://www.python.org/)
