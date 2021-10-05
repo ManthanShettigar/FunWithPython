@@ -65,11 +65,6 @@ while True:
     # among 1 , 2 and 3. Using randint method
     # of random module
     comp_choice = random.randint(1, 3)
-      
-    # looping until comp_choice value 
-    # is equal to the choice value
-    while comp_choice == choice:
-        comp_choice = random.randint(1, 3)
   
     # initialize value of comp_choice_name 
     # variable corresponding to the choice value
@@ -89,22 +84,33 @@ while True:
     # condition for winning
     if((choice == 1 and comp_choice == 2) or
       (choice == 2 and comp_choice ==1 )):
-        print("paper wins = ", end = "")
+        print("paper wins")
         result = "paper"
           
     elif((choice == 1 and comp_choice == 3) or
         (choice == 3 and comp_choice == 1)):
-        print("Rock wins =", end = "")
+        print("Rock wins")
         result = "Rock"
+    
+    # Condition for draw
+    elif(choice==comp_choice):
+        print("Draw")
+        result = 1
+        
     else:
-        print("scissor wins =", end = "")
+        print("scissor wins", end = "")
         result = "scissor"
+
   
     # Printing either user or computer wins
     if result == choice_name:
-        print("|   == User wins ==")
+        print("== User wins ==")
+
+    elif result == 1:
+        print("== No one wins ==")
+    
     else:
-        print("|   == Computer wins ==")
+        print("== Computer wins ==")
           
     print("Do you want to play again? (Y/N)")
     ans = input()
@@ -116,4 +122,4 @@ while True:
       
 # after coming out of the while loop
 # we print thanks for playing
-print("\nThanks for playing")
+print("\nThanks for playing !!")
