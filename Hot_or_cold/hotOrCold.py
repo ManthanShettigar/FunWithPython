@@ -8,7 +8,6 @@ def start_game():
 
     while True:
         
-
         userAnswer = int(input("Attempt " + str(attempt) + " :"))
 
         if userAnswer == answer:
